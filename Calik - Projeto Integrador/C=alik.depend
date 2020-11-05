@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593561441 source:c:\users\islan\documents\c=alik\c=alik\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdbool.h>
+
